@@ -1,0 +1,1 @@
+import * as VITE from 'vitest'

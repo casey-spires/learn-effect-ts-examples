@@ -4,12 +4,13 @@
   "description": "Learn to use effect ts by example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "author": "Casey Spires",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
   },
   "dependencies": {
     "effect": "^3.2.5"
