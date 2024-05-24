@@ -1,0 +1,22 @@
+# Ignore generated files
+*.js
+*.js.map
+node_modules/
+
+# Ignore compiled TypeScript files
+built/
+
+# Ignore testing files
+tests/cases/rwc/
+tests/cases/perf/
+!tests/cases/webharness/compilerToString.js
+test-args.txt
+
+# Ignore temporary files
+~*
+
+# Ignore generated documentation files
+*.docx
+
+# Ignore debugging files
+*.d.ts
